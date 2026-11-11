@@ -1,0 +1,6 @@
+{
+  "name": "DomainVault - Domain Portfolio & Sales Management",
+  "description": "Professional domain portfolio tracker, holding costs analyzer, multi-marketplace listings manager, and AI domain appraisal assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
